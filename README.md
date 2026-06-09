@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aleksandr Melnikov
 
-<!--
-**Aleksandern/Aleksandern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Mobile & Full Stack Engineer
 
-Here are some ideas to get you started:
+Building production mobile and backend systems for startups and growing companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 15+ years software development
+- 7+ years React Native
+- Node.js / NestJS / TypeScript
+- Mobile architecture
+- Backend systems
+- AWS
+
+📅 Calendly: https://cal.com/aleksandern
+
+💼 LinkedIn: https://www.linkedin.com/in/alex-melnikov/
