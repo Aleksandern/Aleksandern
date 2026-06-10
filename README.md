@@ -8,7 +8,7 @@ Building production mobile and backend systems for real-world businesses.
 - Mobile & Backend Systems
 - AWS
 
-📅 Calendly: https://cal.com/aleksandern
+📅 Schedule a Call: https://cal.com/aleksandern
 
 💼 LinkedIn: https://www.linkedin.com/in/alex-melnikov/
 
