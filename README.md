@@ -1,6 +1,4 @@
-# Aleksandr Melnikov
-
-Senior Mobile & Full Stack Engineer
+# Senior Mobile & Full Stack Engineer
 
 Building production mobile and backend systems for real-world businesses.
 
