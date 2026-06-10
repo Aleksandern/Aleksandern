@@ -13,3 +13,5 @@ Building production mobile and backend systems for real-world businesses.
 📅 Calendly: https://cal.com/aleksandern
 
 💼 LinkedIn: https://www.linkedin.com/in/alex-melnikov/
+
+📧 Email: hello@alexmelnikov.dev
