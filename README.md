@@ -1,4 +1,4 @@
-# Senior Mobile & Full Stack Engineer
+# Senior Full Stack & Mobile Engineer
 
 Building production mobile and backend systems for real-world businesses.
 
